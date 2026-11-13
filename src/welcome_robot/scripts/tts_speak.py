@@ -13,9 +13,9 @@ import threading
 import pyaudio
  
 # ===================== 讯飞密钥（和ASR/星火同一个app） =====================
-APPID = "6c9a9281"
-API_KEY = "8d9c9da76e91b8e724932d978229bd1f"
-API_SECRET = "ZjZiYzBmMzU0YzhhYzJmMzhjMThiYjgz"
+APPID = "XXX"
+API_KEY = "XXX"
+API_SECRET = "XXX"
  
 # TTS配置
 TTS_WSS_URL = "wss://tts-api.xfyun.cn/v2/tts"

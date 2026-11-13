@@ -6,9 +6,9 @@ import requests
 import json
 
 # =========和你讯飞APP保持一致，拷贝vosk_spark_chat.py里面配置=========
-APPID = "6c9a9281"
-APIKey = "8d9c9da76e91b8e724932d978229bd1f"
-APISecret = "ZjZiYzBmMzU0YzhhYzJmMzhjMThiYjgz"
+APPID = "XXX"
+APIKey = "XXX"
+APISecret = "XXX"
 SPARK_URL = "https://spark-api-open.xf-yun.com/v1/chat/completions"
 SPARK_MODEL = "4.0Ultra"
 

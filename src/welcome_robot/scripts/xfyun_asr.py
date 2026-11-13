@@ -13,9 +13,9 @@ from std_msgs.msg import String
 from datetime import datetime
 
 # ===================== 讯飞鉴权信息 =====================
-APPID = "6c9a9281"
-API_KEY = "8d9c9da76e91b8e724932d978229bd1f"
-API_SECRET = "ZjZiYzBmMzU0YzhhYzJmMzhjMThiYjgz"
+APPID = "XXX"
+API_KEY = "XXX"
+API_SECRET = "XXX"
 # =======================================================
 
 class Xfyun_asr():
